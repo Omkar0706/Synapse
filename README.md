@@ -53,8 +53,8 @@
 └───────┬────────┘
 │
 ┌───────▼────────────────────────────────────────────────────┐
-│              LM Studio Multi-Instance Setup               │
-├────────────────┬────────────────┬────────────────┬────────┤
+│              LM Studio Multi-Instance Setup                  │
+├────────────────┬────────────────┬────────────────┬────────   ┤
 │ Port 1234      │ Port 1235      │ Port 1236      │ Port   │
 │ Route Opt      │ Customer Comm  │ Strategic Plan │ 1237   │
 │ qwen3-4b       │ phi-4-mini     │ deepseek-r1    │ Emergency│
@@ -297,5 +297,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 </div>
 ```  
-
-Would you like me to also **add example screenshots and diagrams** (like system workflow with agents) to make the README more visually appealing?
